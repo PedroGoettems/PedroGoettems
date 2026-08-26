@@ -20,12 +20,12 @@ Já desenvolvi projetos utilizando diferentes linguagens e tecnologias, principa
 
 ## Atualmente estou estudando:
 
-* 🔌 APIs
-* 🗄️ MySQL e Banco de Dados
-* 🌐 Desenvolvimento Front-end
-* ☕ Java
-* 🧩 Programação Orientada a Objetos
-* 🐙 Git e GitHub
+*  APIs
+*  MySQL e Banco de Dados
+*  Desenvolvimento Front-end
+*  Java
+*  Programação Orientada a Objetos
+*  Git e GitHub
 
 ---
 
