@@ -1,4 +1,4 @@
-# 👨‍💻 Pedro Otávio
+# Pedro Otávio
 
 Estudante de **Desenvolvimento de Sistemas** e apaixonado por programação e tecnologia.
 
