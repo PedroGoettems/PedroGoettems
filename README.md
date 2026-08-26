@@ -31,11 +31,6 @@ Já desenvolvi projetos utilizando diferentes linguagens e tecnologias, principa
 
 ## Onde me encontrar
 
-<p>
-  <a href="[instagram.com/zolppedro](https://www.instagram.com/zolppedro)">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-
   <a href="mailto:pedrootavio.carvalho08@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
