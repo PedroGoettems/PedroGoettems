@@ -1,38 +1,50 @@
-👋 Olá! Me chamo Pedro Goettems
+# 👨‍💻 Pedro Otávio
 
- Sou estudante de Desenvolvimento de Sistemas no IFRS Canoas.
- Atualmente estudando programação, bancos de dados e desenvolvimento web.
+Estudante de **Desenvolvimento de Sistemas** e apaixonado por programação e tecnologia.
 
----
-
-### Linguagens
-🐘 PHP
-☕ Java
-⚡ C
-🟨 JavaScript
-🌐 HTML
-🎨 CSS
-🗄️ SQL
-
-### Ferramentas
-🐙 Git & GitHub
-💾 MySQL
-🛠️ VS Code
-💡 IntelliJ IDEA
+Já desenvolvi projetos utilizando diferentes linguagens e tecnologias, principalmente na área de desenvolvimento web e programação orientada a objetos.
 
 ---
 
-## 📚 Atualmente estudando
+## Já programei em:
 
-- Desenvolvimento Web
-- Banco de Dados
-- Programação Orientada a Objetos
-- Redes de Computadores
-- Java
-- PHP + MySQL
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+## Atualmente estou estudando:
+
+* 🔌 APIs
+* 🗄️ MySQL e Banco de Dados
+* 🌐 Desenvolvimento Front-end
+* ☕ Java
+* 🧩 Programação Orientada a Objetos
+* 🐙 Git e GitHub
 
 ---
 
-## 📫 Contato
+## Onde me encontrar
 
-📧 Email: pedrootavio.carvalho08@gmail.com
+<p>
+  <a href="instagram.com/zolppedro">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+
+  <a href="mailto:pedrootavio.carvalho08@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 📊 GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO\&show_icons=true\&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO\&layout=compact\&theme=dark)
